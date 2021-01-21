@@ -1,0 +1,2 @@
+# ProyFinal-CGHM-TEO
+En este repositorio se presentará el proyecto final de teoría de la asignatura Computación Grafica e Interacción Humano-computadora, grupo 01. Asignatura a cargo del profesor Ing. Arturo Pérez de la Cruz. En este repositorio se incluyen los archivos necesarios para probar este proyecto, además de contar con un manual de usuario y una carpeta titulada vídeos, dónde se puede observar el funcionamiento del proyecto.
