@@ -1,0 +1,8 @@
+newmtl Material1205
+Ka 0.7843137 0.7843137 0.7843137
+Kd 0.972549 0.972549 0.972549
+d 1
+Tr 1
+map_Ka Material1205.png
+map_Kd Material1205.png
+map_d Material1205.png
