@@ -1,0 +1,16 @@
+newmtl phong12
+Ka 0.7843137 0.7843137 0.7843137
+Kd 0.972549 0.972549 0.972549
+d 1
+Tr 1
+map_Ka phong12.png
+map_Kd phong12.png
+map_d phong12.png
+newmtl phong13
+Ka 0.7843137 0.7843137 0.7843137
+Kd 0.972549 0.972549 0.972549
+d 1
+Tr 1
+map_Ka phong13.png
+map_Kd phong13.png
+map_d phong13.png
