@@ -1,0 +1,32 @@
+newmtl blight
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka blight.png
+map_Kd blight.png
+map_d blight.png
+newmtl lightning1
+Ka 0.1568628 0.1568628 0.1568628
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lightning1.png
+map_Kd lightning1.png
+map_d lightning1.png
+newmtl lightning2
+Ka 0.1882353 0.1882353 0.1882353
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lightning2.png
+map_Kd lightning2.png
+map_d lightning2.png
+newmtl wheels
+Ka 0.3764706 0.3764706 0.3764706
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka wheels.png
+map_Kd wheels.png
+map_d wheels.png

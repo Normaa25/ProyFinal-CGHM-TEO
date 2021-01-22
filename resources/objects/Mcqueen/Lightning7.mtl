@@ -1,0 +1,32 @@
+newmtl blight
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka blight.png
+map_Kd blight.png
+map_d blight.png
+newmtl light1_L6
+Ka 0.1568628 0.1568628 0.1568628
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka light1_L6.png
+map_Kd light1_L6.png
+map_d light1_L6.png
+newmtl light2_L6
+Ka 0.1882353 0.1882353 0.1882353
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka light2_L6.png
+map_Kd light2_L6.png
+map_d light2_L6.png
+newmtl lightwheel_4_6
+Ka 0.3764706 0.3764706 0.3764706
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lightwheel_4_6.png
+map_Kd lightwheel_4_6.png
+map_d lightwheel_4_6.png
