@@ -1,0 +1,32 @@
+newmtl blight
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka blight.png
+map_Kd blight.png
+map_d blight.png
+newmtl mcqueen_1
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka mcqueen_1.png
+map_Kd mcqueen_1.png
+map_d mcqueen_1.png
+newmtl mcqueen_2
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka mcqueen_2.png
+map_Kd mcqueen_2.png
+map_d mcqueen_2.png
+newmtl mcqueenwheel
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka mcqueenwheel.png
+map_Kd mcqueenwheel.png
+map_d mcqueenwheel.png

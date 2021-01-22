@@ -1,0 +1,32 @@
+newmtl light1_L1
+Ka 0.282353 0.282353 0.282353
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka light1_L1.png
+map_Kd light1_L1.png
+map_d light1_L1.png
+newmtl light2_L1
+Ka 0.345098 0.345098 0.345098
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka light2_L1.png
+map_Kd light2_L1.png
+map_d light2_L1.png
+newmtl lightwheel_L1
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lightwheel_L1.png
+map_Kd lightwheel_L1.png
+map_d lightwheel_L1.png
+newmtl shadow0
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka shadow0.png
+map_Kd shadow0.png
+map_d shadow0.png
